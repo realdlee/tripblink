@@ -1,0 +1,20 @@
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: tripblink_development
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: tripblink_test
+
+staging:
+  adapter: postgresql
+  encoding: unicode
+  database: tripblink_staging
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: tripblink_production

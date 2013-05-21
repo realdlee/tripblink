@@ -1,0 +1,87 @@
+/*@import "twitter/bootstrap/bootstrap";*/
+/*=require twitter-bootstrap-static/bootstrap*/
+/*
+
+  Use Font Awesome icons (default)
+  To use Glyphicons sprites instead of Font Awesome, replace with "require twitter-bootstrap-static/sprites"
+  =require twitter-bootstrap-static/fontawesome
+  */
+
+@navbarHeight: 41px;
+.space0 { margin-bottom: 6.25px; }
+.space1 { margin-bottom: 12.5px; }
+.space2 { margin-bottom: 25px; }
+.space3 { margin-bottom: 37.5px; }
+.space4 { margin-bottom: 50px; }
+
+body {
+   /*background-image: #ffffff url(<%= asset_path 'blue_hatch.jpg' %>);*/
+}
+.container.main {
+  margin-top: 60px;
+}
+
+.center {
+  text-align: center;
+}
+
+ul.thumbnails {
+  li > .country.thumbnail {
+    z-index: 100;
+/*    background-color: white;
+    border-radius: 3px;
+    border: 1px solid @black;*/
+    min-width: 218px;
+    img {
+      min-width: 300px;
+      /*min-height: 250px;*/
+    }
+
+    h4 {
+      color: white;
+    }
+  }
+}
+
+footer {
+  bottom: 0;
+}
+
+
+/**** Isotope Filtering ****/
+
+.isotope-item {
+  z-index: 2;
+}
+
+.isotope-hidden.isotope-item {
+  pointer-events: none;
+  z-index: 1;
+}
+
+/**** Isotope CSS3 transitions ****/
+
+.isotope,
+.isotope .isotope-item {
+  -webkit-transition-duration: 0.8s;
+     -moz-transition-duration: 0.8s;
+      -ms-transition-duration: 0.8s;
+       -o-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+}
+
+.isotope {
+  -webkit-transition-property: height, width;
+     -moz-transition-property: height, width;
+      -ms-transition-property: height, width;
+       -o-transition-property: height, width;
+          transition-property: height, width;
+}
+
+.isotope .isotope-item {
+  -webkit-transition-property: -webkit-transform, opacity;
+     -moz-transition-property:    -moz-transform, opacity;
+      -ms-transition-property:     -ms-transform, opacity;
+       -o-transition-property:      -o-transform, opacity;
+          transition-property:         transform, opacity;
+}

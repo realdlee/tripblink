@@ -1,0 +1,63 @@
+Brazil|Americas
+Argentina|Americas
+Peru|Americas
+Ecuador|Americas
+Chile|Americas
+Columbia|Americas
+Venezuela|Americas
+Bolivia|Americas
+Uruguay|Americas
+Paraguay|Americas
+Costa Rica|Americas
+Panama|Americas
+Guatemala|Americas
+Belize|Americas
+Honduras|Americas
+Nicaragua|Americas
+El Salvador|Americas
+Bolivia|Americas
+Mexico
+Puerto Rico
+The Bahamas
+Dominican Republic
+Jamaica
+Cuba
+US Virgin Islands
+Aruba
+Barbados
+United States
+Australia|
+New Zealand|
+French Polynesia|
+China|Asia
+Malaysia|Asia
+India|Asia
+Thailand|Asia
+Philippines|Asia
+Singapore|Asia
+Japan|Asia
+Indonesia|Asia
+Vietnam|Asia
+South Korea|Asia
+Italy|Europe
+United Kingdom|Europe
+France|Europe
+Spain|Europe
+Germany|Europe
+Netherlands|Europe
+Turkey|Europe
+Greece|Europe
+Portugal|Europe
+Austria|Europe
+Israel
+United Arab Emirates
+Iran
+Jordan
+Saudi Arabia
+Egypt|Africa
+South Africa|Africa
+Morocco|Africa
+Tunisia|Africa
+Kenya|Africa
+Tanzania|Africa
+Ethiopia|Africa

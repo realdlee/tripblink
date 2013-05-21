@@ -4,7 +4,7 @@ development:
   encoding: unicode
   database: tripblink_development
 
-test:
+test: &test
   adapter: postgresql
   encoding: unicode
   database: tripblink_test
@@ -18,3 +18,6 @@ production:
   adapter: postgresql
   encoding: unicode
   database: tripblink_production
+
+cucumber:
+  <<: *test

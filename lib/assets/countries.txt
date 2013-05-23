@@ -1,21 +1,22 @@
-Brazil|Americas
-Argentina|Americas
-Peru|Americas
-Ecuador|Americas
-Chile|Americas
-Columbia|Americas
-Venezuela|Americas
-Bolivia|Americas
-Uruguay|Americas
-Paraguay|Americas
-Costa Rica|Americas
-Panama|Americas
-Guatemala|Americas
-Belize|Americas
-Honduras|Americas
-Nicaragua|Americas
-El Salvador|Americas
-Bolivia|Americas
+Argentina|South America
+Brazil|South America
+Bolivia|South America
+Peru|South America
+Ecuador|South America
+Chile|South America
+Columbia|South America
+Venezuela|South America
+Uruguay|South America
+Paraguay|South America
+
+Costa Rica|Central America
+Panama|Central America
+Guatemala|Central America
+Belize|Central America
+Honduras|Central America
+Nicaragua|Central America
+El Salvador|Central America
+
 Mexico
 Puerto Rico
 The Bahamas
@@ -26,33 +27,36 @@ US Virgin Islands
 Aruba
 Barbados
 United States
+Canada
+
 Australia|
 New Zealand|
-French Polynesia|
+
 China|Asia
-Malaysia|Asia
 India|Asia
-Thailand|Asia
+Indonesia|Asia
+Japan|Asia
+Malaysia|Asia
 Philippines|Asia
 Singapore|Asia
-Japan|Asia
-Indonesia|Asia
-Vietnam|Asia
 South Korea|Asia
-Italy|Europe
-United Kingdom|Europe
-France|Europe
-Spain|Europe
-Germany|Europe
-Netherlands|Europe
-Turkey|Europe
-Greece|Europe
-Portugal|Europe
+Thailand|Asia
+Vietnam|Asia
+
 Austria|Europe
+France|Europe
+Germany|Europe
+Greece|Europe
+Iceland|Europe
+Italy|Europe
+Netherlands|Europe
+Portugal|Europe
+Spain|Europe
+Turkey|Europe
+United Kingdom|Europe
+
 Israel
 United Arab Emirates
-Iran
-Jordan
 Saudi Arabia
 Egypt|Africa
 South Africa|Africa

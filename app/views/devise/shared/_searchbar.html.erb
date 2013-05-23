@@ -1,0 +1,32 @@
+<div class="search_bar">
+  <form>
+    <section id="options" class="clearfix">
+      <ul><%= select_tag :region_id, options_from_collection_for_select(Region.all, :id, :name) %></ul>
+      <ul id="sort-by" class="option-set clearfix" data-option-key="sortBy">
+        Sort By
+        <div class="btn-group">
+        <li><a href="#sortBy=original-order" data-option-value="original-order" class="selected btn btn-small" data>Start Over</a></li>
+        <li><a href="#sortBy=name" data-option-value="name" class="btn btn-small">Name</a></li>
+        <li><a href="#sortBy=random" data-option-value="random" class="btn btn-small">I'm Feeling Lucky</a></li>
+        <li><a href="#sortBy=weather" data-option-value="weather" class="btn btn-small">Weather</a></li>
+        <!-- <li><a href="#sortBy=symbol" data-option-value="symbol">symbol</a></li> -->
+  <!--        <li><a href="#sortBy=number" data-option-value="number">number</a></li>
+        <li><a href="#sortBy=weight"  data-option-value="weight">weight</a></li>
+        <li><a href="#sortBy=category" data-option-value="category">category</a></li> -->
+        </div>
+      </ul>
+      <ul id="filters" class="option-set clearfix" data-option-key="filter">
+        Filters
+        <li><a href="#filter" data-option-value="*" class="selected btn btn-small">Show All</a></li>
+        <li><a href="#filter" data-option-value=".asia" class="btn btn-small">Asia</a></li>
+        <li><a href="#filter" data-option-value=".europe" class="btn btn-small">Europe</a></li>
+        <li><a href="#filter" data-option-value=".north-america" class="btn btn-small">North America</a></li>
+        <li><a href="#filter" data-option-value=".popular" class="btn btn-small">Popular</a></li>
+      </ul>
+    </section> <!-- #options -->
+
+  <!--   <div class='inline-block'>
+      <%=submit_tag "Search!", name: nil, class: "btn btn-danger" %>
+    </div> -->
+  </form>
+</div>

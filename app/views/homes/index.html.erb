@@ -1,33 +1,18 @@
-<!-- <form class='form-search space3 clearfix' action= countries_path method= "get"> -->
-<form>
-  <%= select_tag :region, Region.all.map(&:name) %>
-  <label class="checkbox inline">
-    <%=check_box_tag "International" %>
-    <%=label_tag "International" %>
-  </label>
-  <div class='inline-block'>
-    <%=submit_tag "Search!", name: nil, class: "btn btn-danger" %>
-  </div>
-</form>
+<%= render 'shared/searchbar' %>
 
-<ul class="thumbnails clearfix">
+<ul class="items clearfix">
   <%- Country.all.each do |c| %>
-    <%- if c.image? %>
-      <li class="span4">
-        <%= div_for(c, class: "thumbnail space2") do %>
-          <%= image_tag c.image.url %>
-          <h4 class='center'><%= c.name %></h4>
-        <% end %>
-      </li>
+    <%= content_tag :li, class: "item space1 rightspace2 #{Region.find(c.region_id).name.parameterize}" do %>
+      <%- div_for(c, class: "") do %>
+        <%= image_tag c.image.url %>
+        <p class='center name'><%= c.name %></p>
+        <%= link_to "Edit", edit_country_path(c) %>
+        <%= link_to "Delete", country_path(c), method: :delete %>
+      <% end %>
     <% end %>
   <% end %>
-</div>
+</ul>
 
-<%= form_for @country do |f| %>
-  <%= f.text_field :name, placeholder: "Ex. United States" %>
-  <%= f.select :region, Region.all.map(&:name) %>
-  <div>
-    <%= f.file_field :image %>
-  </div>
-  <%= f.submit 'Create', class: "btn btn-primary" %>
-<% end %>
+<%= render 'countries/form' %>
+<%= link_to "Index", countries_path %>
+<%= link_to "Home", root_path %>

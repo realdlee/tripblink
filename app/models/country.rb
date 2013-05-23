@@ -4,5 +4,6 @@ class Country < ActiveRecord::Base
   # , path: 'public/system/:class/:style/:filename', url: 'public/system/:class/:style/:filename'
 
   validates :name, presence: true
-  validates :image, presence: true
+  validates :region_id, presence: true
+  # validates :image, presence: true
 end

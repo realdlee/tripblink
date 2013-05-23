@@ -1,14 +1,14 @@
 require 'spec_helper'
 
-describe Country do
+describe City do
   context "validations" do
     it { should respond_to :name}
     it { should respond_to :image}
-    it { should respond_to :region}
+    it { should respond_to :country}
 
-    it { should belong_to :region }
+    it { should belong_to :country }
     it { should validate_presence_of :name }
-    it { should validate_presence_of :region_id }
+    it { should validate_presence_of :country_id }
   end
 
   context "new" do

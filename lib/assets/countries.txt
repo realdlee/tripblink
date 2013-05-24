@@ -17,51 +17,63 @@ Honduras|Central America
 Nicaragua|Central America
 El Salvador|Central America
 
-Mexico
-Puerto Rico
-The Bahamas
-Dominican Republic
-Jamaica
-Cuba
-US Virgin Islands
-Aruba
-Barbados
-United States
-Canada
+Mexico|North America
+Puerto Rico|North America
+The Bahamas|North America
+Dominican Republic|North America
+Jamaica|North America
+Cuba|North America
+US Virgin Islands|North America
+Aruba|North America
+Barbados|North America
+United States|North America
+Canada|North America
 
-Australia|
-New Zealand|
+Australia|Oceania
+New Zealand|Oceania
 
+Cambodia|Asia
 China|Asia
 India|Asia
 Indonesia|Asia
 Japan|Asia
+Laos|Asia
 Malaysia|Asia
 Philippines|Asia
 Singapore|Asia
 South Korea|Asia
 Thailand|Asia
 Vietnam|Asia
+Nepal|Asia
+
 
 Austria|Europe
+Bulgaria|Europe
+Croatia|Europe
 France|Europe
 Germany|Europe
 Greece|Europe
 Iceland|Europe
 Italy|Europe
 Netherlands|Europe
+Norway|Europe
+Poland|Europe
 Portugal|Europe
+Romania|Europe
+Scotland|Europe
 Spain|Europe
 Turkey|Europe
+Ukraine|Europe
 United Kingdom|Europe
 
-Israel
-United Arab Emirates
-Saudi Arabia
+Israel|Middle East
+United Arab Emirates|Middle East
+Saudi Arabia|Middle East
+
 Egypt|Africa
-South Africa|Africa
-Morocco|Africa
-Tunisia|Africa
-Kenya|Africa
-Tanzania|Africa
 Ethiopia|Africa
+Kenya|Africa
+Morocco|Africa
+South Africa|Africa
+Tanzania|Africa
+Tunisia|Africa

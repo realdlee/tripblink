@@ -1,0 +1,116 @@
+"Pokhara, Nepal – US$14.75
+Hanoi, Vietnam – $16.50
+Kathmandu, Nepal – $17.91
+Ho Chi Minh City, Vietnam – $18.34
+Phnom Penh, Cambodia – $19.45
+Chiang Mai, Thailand – $19.55
+Delhi, India – $19.60
+Goa, India – $19.68
+Quito, Ecuador – $20.30
+Hoi An, Vietnam – $20.50
+La Paz, Bolivia – $21.47
+Vientiane, Laos – $21.72
+Luang Prabang, Laos – $22.66
+Bangkok, Thailand – $24.12
+Bucharest, Romania – $24.33
+Sofia, Bulgaria – $24.76
+Krakow, Poland – $25.06
+Cairo, Egypt – $25.48
+Kiev, Ukraine – $25.85
+Marrakech, Morocco – $25.90
+Sarajevo, Bosnia and Herzegovina – $26.08
+Kuta, Bali, Indonesia – $26.17
+Siem Reap, Cambodia – $27.21
+Amman, Jordan – $27.41
+Belgrade, Serbia – $27.96
+Riga, Latvia – $28.08
+Cusco, Peru – $28.10
+Beijing, China – $28.20
+Phuket, Thailand – $28.22
+Panama City, Panama - $28.90
+Mexico City, Mexico – $29.17
+Lima, Peru – $29.45
+Antigua, Guatemala – $30.00
+Manila, Philippines – $30.10
+Mumbai, India – $30.35
+Fez, Morocco – $30.58
+Dakar, Senegal – $30.69
+San Jose, Costa Rica – $30.70
+Taipei, Taiwan – $30.86
+Budapest, Hungary – $33.69
+Macau, China – $33.14
+Montevideo, Uruguay - $33.65
+Kuala Lumpur, Malaysia – $33.82
+Shanghai, China – $34.41
+Beirut, Lebanon – $34.74
+Antalya, Turkey – $35.11
+Warsaw, Poland – $35.78
+Seoul, South Korea – $36.70
+Santiago, Chile – $38.26
+Cartagena, Colombia – $38.85
+Zagreb, Croatia – $39.43
+Cape Town, South Africa – $40.36
+Istanbul, Turkey – $41.03
+Prague, Czech Republic – $41.15
+Bratislava, Slovakia – $41.33
+Hong Kong, China – $42.74
+Singapore, Singapore – $42.76
+St. Petersburg, Russia – $44.53
+Cancun, Mexico – $44.91
+Buenos Aires, Argentina – $47.72
+San Pedro, Belize – $48.51
+Moscow, Russia – $49.22
+Tenerife, Spain – $50.53
+Rio de Janeiro, Brazil – $51.16
+Tallinn, Estonia – $53.52
+Tel Aviv, Israel – $56.29
+Las Vegas, USA – $57.90
+Ibiza, Spain – $58.04
+Lisbon, Portugal – $58.27
+New Orleans, USA – $58.90
+Berlin, Germany – $62.67
+Auckland, New Zealand – $63.33
+Athens, Greece – $63.33
+Montreal, Canada – $63.59
+Reykjavik, Iceland – $63.79
+Washington DC, USA – $63.80
+Bruges, Belgium – $64.00
+Madrid, Spain – $64.27
+Caracas, Venezuela – $65.27
+San Francisco, USA – $65.40
+Naples, Italy – $66.00
+Florence, Italy – $66.53
+Dubai, UAE – $68.01
+Barcelona, Spain – $68.67
+Hamburg, Germany – $68.93
+Dublin, Ireland – $69.07
+Los Angeles, USA – $69.99
+Honolulu, USA – $70.10
+Dubrovnik, Croatia – $70.76
+Galway, Ireland – $72.53
+Luxembourg City, Luxembourg – $72.67
+Nice, France – $73.60
+Munich, Germany – $73.87
+Miami Beach, USA – $76.20
+Tokyo, Japan – $77.25
+Rome, Italy – $78.13
+Queenstown, New Zealand – $78.50
+Toronto, Canada – $78.59
+Chicago, USA – $79.60
+Milan, Italy – $79.73
+Edinburgh, Scotland – $80.94
+Paris, France – $81.53
+Vancouver, Canada – $82.02
+Vienna, Austria – $83.33
+New York City, USA – $84.25
+Copenhagen, Denmark – $85.48
+London, England – $86.67
+Melbourne, Australia – $87.16
+Brussels, Belgium – $89.07
+Sydney, Australia – $90.53
+Amsterdam, Netherlands – $90.53
+Helsinki, Finland – $92.80
+Stockholm, Sweden – $97.54
+Venice, Italy – $99.19
+Oslo, Norway – $111.31
+Zurich, Switzerland – $115.96"

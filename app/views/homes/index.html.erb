@@ -4,8 +4,8 @@
   <%- Country.all.each do |c| %>
     <%= content_tag :li, class: "item space1 rightspace2 #{Region.find(c.region_id).name.parameterize}" do %>
       <%- div_for(c, class: "") do %>
-        <%= image_tag c.image.url %>
-        <p class='center name'><%= c.name %></p>
+        <%= image_tag(c.image.url(:small)) %>
+        <p class='center name'><%= link_to c.name, "#" %></p>
         <%= link_to "Edit", edit_country_path(c) %>
         <%= link_to "Delete", country_path(c), method: :delete %>
       <% end %>
@@ -14,5 +14,3 @@
 </ul>
 
 <%= render 'countries/form' %>
-<%= link_to "Index", countries_path %>
-<%= link_to "Home", root_path %>

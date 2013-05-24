@@ -11,7 +11,21 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130515001513) do
+ActiveRecord::Schema.define(:version => 20130524052630) do
+
+  create_table "cities", :force => true do |t|
+    t.string   "name"
+    t.decimal  "backpacker_index"
+    t.integer  "country_id"
+    t.datetime "created_at",         :null => false
+    t.datetime "updated_at",         :null => false
+    t.string   "image_file_name"
+    t.string   "image_content_type"
+    t.integer  "image_file_size"
+    t.datetime "image_updated_at"
+  end
+
+  add_index "cities", ["country_id"], :name => "index_cities_on_country_id"
 
   create_table "countries", :force => true do |t|
     t.integer  "region_id"

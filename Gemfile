@@ -9,7 +9,8 @@ gem 'jquery-rails'
 gem 'twitter-bootstrap-rails'
 gem 'devise', '~> 2.2.4'
 gem 'mechanize'
-gem 'paperclip', '~> 3.0'
+gem 'paperclip', '~> 3.4.2'
+gem 'aws-sdk'
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'

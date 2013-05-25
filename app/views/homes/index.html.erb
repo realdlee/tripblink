@@ -2,7 +2,7 @@
 
 <ul class="items clearfix">
   <%- Country.all.each do |c| %>
-    <%= content_tag :li, class: "item space1 rightspace2 #{Region.find(c.region_id).name.parameterize}" do %>
+    <%= content_tag :li, class: "item #{region(c).parameterize}" do %>
       <%- div_for(c, class: "") do %>
         <%= image_tag(c.image.url(:small)) %>
         <p class='center name'><%= link_to c.name, "#" %></p>

@@ -1,5 +1,5 @@
 class Region < ActiveRecord::Base
-  has_many :countries
+  has_many :countries, inverse_of: :region
 
-  validates :name, presence: true
+  validates :name, presence: true, uniqueness: true
 end

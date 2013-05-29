@@ -1,37 +1,54 @@
 Argentina|South America
-Brazil|South America
 Bolivia|South America
-Peru|South America
-Ecuador|South America
+Brazil|South America
 Chile|South America
 Columbia|South America
-Venezuela|South America
+Ecuador|South America
+Peru|South America
 Uruguay|South America
-Paraguay|South America
-
-Costa Rica|Central America
-Panama|Central America
-Guatemala|Central America
-Belize|Central America
-Honduras|Central America
-Nicaragua|Central America
-El Salvador|Central America
-
+Venezuela|South America
+Belize|North America
+Costa Rica|North America
+Guatemala|North America
+Panama|North America
 Mexico|North America
-Puerto Rico|North America
-The Bahamas|North America
-Dominican Republic|North America
-Jamaica|North America
-Cuba|North America
-US Virgin Islands|North America
-Aruba|North America
-Barbados|North America
-United States|North America
 Canada|North America
-
+United States|North America
 Australia|Oceania
 New Zealand|Oceania
-
+Austria|Europe
+Belgium|Europe
+Bosnia and Herzegovina|Europe
+Bulgaria|Europe
+Croatia|Europe
+Czech Republic|Europe
+Denmark|Europe
+England|Europe
+Estonia|Europe
+Finland|Europe
+France|Europe
+Germany|Europe
+Greece|Europe
+Hungary|Europe
+Iceland|Europe
+Ireland|Europe
+Italy|Europe
+Latvia|Europe
+Luxembourg|Europe
+Netherlands|Europe
+Norway|Europe
+Poland|Europe
+Portugal|Europe
+Romania|Europe
+Russia|Europe
+Scotland|Europe
+Serbia|Europe
+Slovakia|Europe
+Spain|Europe
+Sweden|Europe
+Switzerland|Europe
+Turkey|Europe
+Ukraine|Europe
 Cambodia|Asia
 China|Asia
 India|Asia
@@ -39,41 +56,18 @@ Indonesia|Asia
 Japan|Asia
 Laos|Asia
 Malaysia|Asia
+Nepal|Asia
 Philippines|Asia
 Singapore|Asia
 South Korea|Asia
+Taiwan|Asia
 Thailand|Asia
 Vietnam|Asia
-Nepal|Asia
-
-
-Austria|Europe
-Bulgaria|Europe
-Croatia|Europe
-France|Europe
-Germany|Europe
-Greece|Europe
-Iceland|Europe
-Italy|Europe
-Netherlands|Europe
-Norway|Europe
-Poland|Europe
-Portugal|Europe
-Romania|Europe
-Scotland|Europe
-Spain|Europe
-Turkey|Europe
-Ukraine|Europe
-United Kingdom|Europe
-
+Egypt|Middle East
+Jordan|Middle East
 Israel|Middle East
+Lebanon|Middle East
 United Arab Emirates|Middle East
-Saudi Arabia|Middle East
-
-Egypt|Africa
-Ethiopia|Africa
-Kenya|Africa
 Morocco|Africa
+Senegal|Africa
 South Africa|Africa
-Tanzania|Africa
-Tunisia|Africa

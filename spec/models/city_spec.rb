@@ -9,9 +9,11 @@ describe City do
 
     it { should belong_to :country }
     it { should validate_presence_of :name }
+    it { should validate_uniqueness_of :name }
     it { should validate_presence_of :country_id }
     it { should_not validate_presence_of :backpacker_index }
     it { should validate_numericality_of :backpacker_index }
+
   end
 
 end

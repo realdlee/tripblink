@@ -14,3 +14,79 @@ countries_array.uniq.size = 73
 
 #alphabetized
 ["Argentina", "Australia", "Austria", "Belgium", "Belize", "Bolivia", "Bosnia and Herzegovina", "Brazil", "Bulgaria", "Cambodia", "Canada", "Chile", "China", "Colombia", "Costa Rica", "Croatia", "Czech Republic", "Denmark", "Ecuador", "Egypt", "England", "Estonia", "Finland", "France", "Germany", "Greece", "Guatemala", "Hungary", "Iceland", "India", "Indonesia", "Ireland", "Israel", "Italy", "Japan", "Jordan", "Laos", "Latvia", "Lebanon", "Luxembourg", "Malaysia", "Mexico", "Morocco", "Nepal", "Netherlands", "New Zealand", "Norway", "Panama", "Peru", "Philippines", "Poland", "Portugal", "Romania", "Russia", "Scotland", "Senegal", "Serbia", "Singapore", "Slovakia", "South Africa", "South Korea", "Spain", "Sweden", "Switzerland", "Taiwan", "Thailand", "Turkey", "UAE", "USA", "Ukraine", "Uruguay", "Venezuela", "Vietnam"]
+
+
+Argentina
+Australia
+Austria
+Belgium
+Belize
+Bolivia
+Bosnia and Herzegovina
+Brazil
+Bulgaria
+Cambodia
+Canada
+Chile
+China
+Colombia
+Costa Rica
+Croatia
+Czech Republic
+Denmark
+Ecuador
+Egypt
+England
+Estonia
+Finland
+France
+Germany
+Greece
+Guatemala
+Hungary
+Iceland
+India
+Indonesia
+Ireland
+Israel
+Italy
+Japan
+Jordan
+Laos
+Latvia
+Lebanon
+Luxembourg
+Malaysia
+Mexico
+Morocco
+Nepal
+Netherlands
+New Zealand
+Norway
+Panama
+Peru
+Philippines
+Poland
+Portugal
+Romania
+Russia
+Scotland
+Senegal
+Serbia
+Singapore
+Slovakia
+South Africa
+South Korea
+Spain
+Sweden
+Switzerland
+Taiwan
+Thailand
+Turkey
+United Arab Emirates
+USA
+Ukraine
+Uruguay
+Venezuela
+Vietnam
+

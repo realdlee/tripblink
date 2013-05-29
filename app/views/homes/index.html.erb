@@ -6,11 +6,13 @@
       <%- div_for(c, class: "") do %>
         <%= image_tag(c.image.url(:small)) %>
         <p class='center name'><%= link_to c.name, "#" %></p>
-        <%= link_to "Edit", edit_country_path(c) %>
-        <%= link_to "Delete", country_path(c), method: :delete %>
+        <% if Rails.env.development? %>
+          <%= link_to "Edit", edit_country_path(c) %>
+        <% end %>
       <% end %>
     <% end %>
   <% end %>
 </ul>
-
-<%= render 'countries/form' %>
+<% if Rails.env.development? %>
+  <%= render 'countries/form' %>
+<% end %>

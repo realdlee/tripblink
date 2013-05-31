@@ -1,0 +1,8 @@
+<%= form_for [@country, @comment] do |f| %>
+  <div class="field">
+    <%= f.text_area :content, rows: 5 %>
+  </div>
+  <div class="actions">
+    <%= f.submit "Comment", class: "btn btn-danger btn-small" %>
+  </div>
+<% end %>

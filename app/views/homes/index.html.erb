@@ -5,7 +5,7 @@
     <%= content_tag :li, class: "item #{region(c).parameterize}" do %>
       <%- div_for(c, class: "") do %>
         <%= image_tag(c.image.url(:small)) %>
-        <p class='center name'><%= link_to c.name, "#" %></p>
+        <p class='center name'><%= link_to c.name, country_path(c) %></p>
         <% if Rails.env.development? %>
           <%= link_to "Edit", edit_country_path(c) %>
         <% end %>
@@ -13,6 +13,8 @@
     <% end %>
   <% end %>
 </ul>
+
 <% if Rails.env.development? %>
   <%= render 'countries/form' %>
+
 <% end %>

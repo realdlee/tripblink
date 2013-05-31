@@ -1,3 +1,7 @@
 ==Tripblink
 
-Tripblink is a fast way to get awesome ideas and information for fun trips anywhere in the world.
+Tripblink is a fast, visual way to get awesome ideas and information for fun trips anywhere in the world.
+
+Right now, Tripblink allows you to filter and sort different countries.  In the near future, cities as well as food and activities will be added.  Other likely features are creating/sharing trips you plan and voting on places.
+
+If you want to get in touch, my email is realDLee (at) gmail (dot) com.

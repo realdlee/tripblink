@@ -27,6 +27,12 @@ class CountriesController < ApplicationController
     end
   end
 
+  def show
+    @country = Country.find(params[:id])
+    @comments = @country.comments
+    @comment = @country.comments.new
+  end
+
   def destroy
     Country.find(params[:id]).destroy
     flash[:success] = "Country deleted"
